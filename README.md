@@ -17,7 +17,7 @@ Creating indexes for finder.green.
 
 ---
 
-### 2. Identify site Software / CMS
+### 2. Identify site software/CMS
 
 * Action: Detect underlying site software (WordPress, Hugo, Drupal, etc.)
 * How:
@@ -32,7 +32,7 @@ Creating indexes for finder.green.
 
 ---
 
-### 3. Detect Last Update Date
+### 3. Detect Last Update date
 
 * Action: Try to get the most recent post/page/article timestamp
 * Options:
@@ -79,7 +79,7 @@ Creating indexes for finder.green.
 
 ---
 
-### 5. Enrich and Validate Data
+### 5. Enrich and validate data
 
 * Add:
 
@@ -93,7 +93,7 @@ Creating indexes for finder.green.
 
 ---
 
-### 6. Transform to Typesense-Ready JSON
+### 6. Transform to Typesense-ready JSON
 
 * Action: Convert each record to a flat JSON structure
 * Fields:
@@ -127,7 +127,7 @@ client.collections['green_sites'].documents.import_jsonl(open('community_greenin
 
 ---
 
-### 8. Schedule Recrawls
+### 8. Schedule recrawls
 
 * Action: Automate a refresh every 1–3 months
 * Tool:

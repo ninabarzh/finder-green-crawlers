@@ -62,7 +62,6 @@ Creating indexes for finder.green.
   * Scrapy: for structured multi-page sites
   * Sitemap/Feed Readers: for blogs
   * Python + BeautifulSoup: for targeted scrapes
-* 
 * Output format: JSON objects per entry, example:
 
 ```json

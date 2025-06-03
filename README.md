@@ -8,7 +8,7 @@ Creating indexes for finder.green.
 
 ### 1. Discover & curate initial URLs
 
-* Action: Organise your categories (e.g. *Community Greening*, *Household Greening*, *Surviving Climate Change*).
+* Action: Organise your categories (e.g. [Community Greening](community.md), [Household & Lifestyle Greening](households-and-lifestyles.md), [Surviving Climate Change](surviving-climate-change.md)).
 * Sources: Use search engines, curated lists, public datasets, NGO directories, web archives.
 * Tools:
 
